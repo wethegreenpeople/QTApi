@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/animalfacts",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "QTApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/animalfacts",
       "applicationUrl": "https://localhost:5021;http://localhost:5020",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
